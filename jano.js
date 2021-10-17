@@ -5458,8 +5458,8 @@ jano100.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("ODk5MzQ5MzY3MDM3NzYzNjE1.YWxgOg.nZPmLtyZdBSeieOI6xk0L2o0CEI");
-jano2.login("");
+jano.login("");
+jano2.login("ODk5MzU2MTg5MDMxMjcyNTI5.YWxlnQ.yM_qHH4EHvuz6bHnYOVBE6QDwD0");
 jano3.login("");
 jano4.login("");
 jano5.login("");
