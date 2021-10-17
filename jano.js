@@ -5458,7 +5458,7 @@ jano100.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
+jano.login("ODk5MzQ5MzY3MDM3NzYzNjE1.YWxgOg.nZPmLtyZdBSeieOI6xk0L2o0CEI");
 jano2.login("");
 jano3.login("");
 jano4.login("");
